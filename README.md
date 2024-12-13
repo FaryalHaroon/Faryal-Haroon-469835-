@@ -2,14 +2,6 @@
 <p align="right"><img alt="GitHub" src="https://img.shields.io/github/license/subhayuroy/Hotel_Management?style=plastic"></p>
 
 
-Contributors are @Kaushiki09 and @subhayuroy
-
-This Project on Hotel Management is a general software developed (using Python) to simplify hotel operations by automating them. 
-In this project, “AnCasa” is the project’s hotel name. 
-~~This doesnot concern with any real world entity~~
-It covers major aspects of hotel management; it could perform the following operations- Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Record-Keeping.
-
-
 <h2 align="center">How to run this project?</h2>
 
 1)Clone the Repo by going to your local Git Client and pushing in the command:
