@@ -1,15 +1,11 @@
 <h1 align="center"> Hotel Management</h1>
-<p align="right"><img alt="GitHub" src="https://img.shields.io/github/license/subhayuroy/Hotel_Management?style=plastic"></p>
 
 <h2 align="center">How to run this project?</h2>
 
-1)Clone the Repo by going to your local Git Client and pushing in the command:
-`git@github.com:subhayuroy/Hotel_Management.git`
-
-2)Installing **Packages**:
+1)Installing **Packages**:
 `pip3 install -r requirements.txt`
 
-3)Atlast push in the command:
+2)Atlast push in the command:
 `python3 Hotel.py`
 
 You have the program running now.
